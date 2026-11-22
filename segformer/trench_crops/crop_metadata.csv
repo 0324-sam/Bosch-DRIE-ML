@@ -1,0 +1,14 @@
+source_sem,crop_name,x1,y1,x2,y2
+sem image 1,sem image 1_trench_01,10,262,388,630
+sem image 1,sem image 1_trench_02,420,262,790,628
+sem image 1,sem image 1_trench_03,817,266,1215,630
+sem image 2,sem image 2_trench_01,8,313,454,664
+sem image 2,sem image 2_trench_02,493,310,945,657
+sem image 2,sem image 2_trench_03,980,306,1397,646
+sem image 3,sem image 3_trench_01,465,402,995,795
+sem image 3,sem image 3_trench_02,1026,399,1461,781
+sem image 4,sem image 4_trench_01,7,67,749,754
+sem image 4,sem image 4_trench_02,763,68,1358,753
+sem image 5,sem image 5_trench_01,277,376,897,755
+sem image 5,sem image 5_trench_02,929,377,1459,746
+sem image 6,sem image 6_trench_01,131,281,1358,671

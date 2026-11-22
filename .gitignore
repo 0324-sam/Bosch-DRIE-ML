@@ -1,0 +1,49 @@
+
+# ==========================================
+# Bosch DRIE ML Project
+# ==========================================
+
+# 1. Ignore all image files
+# Training, validation, testing, masks, predictions
+
+*.[pP][nN][gG]
+*.[jJ][pP][gG]
+*.[jJ][pP][eE][gG]
+*.[jJ][fF][iI][fF]
+*.[bB][mM][pP]
+*.[tT][iI][fF]
+*.[tT][iI][fF][fF]
+*.[wW][eE][bB][pP]
+*.[gG][iI][fF]
+*.[sS][vV][gG]
+*.[hH][eE][iI][cC]
+*.[hH][eE][iI][fF]
+*.[aA][vV][iI][fF]
+*.[iI][cC][oO]
+*.[pP][pP][mM]
+*.[pP][gG][mM]
+*.[pP][bB][mM]
+*.[tT][gG][aA]
+*.[eE][xX][rR]
+
+# 2. Python virtual environments
+.venv/
+venv/
+env/
+
+# 3. Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 4. Local environment and secrets
+.env
+.env.*
+*.pem
+
+# 5. Editor and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

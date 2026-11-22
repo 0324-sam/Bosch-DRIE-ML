@@ -1,0 +1,14 @@
+{
+  "train": [
+    "sem image 4",
+    "sem image 2",
+    "sem image 3",
+    "sem image 5"
+  ],
+  "validation": [
+    "sem image 1"
+  ],
+  "test": [
+    "sem image 6"
+  ]
+}

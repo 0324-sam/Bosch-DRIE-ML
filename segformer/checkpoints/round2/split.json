@@ -1,0 +1,21 @@
+{
+  "train": [
+    "sem image 2_trench_01",
+    "sem image 2_trench_02",
+    "sem image 2_trench_03",
+    "sem image 3_trench_01",
+    "sem image 3_trench_02",
+    "sem image 4_trench_01",
+    "sem image 4_trench_02",
+    "sem image 5_trench_01",
+    "sem image 5_trench_02"
+  ],
+  "validation": [
+    "sem image 1_trench_01",
+    "sem image 1_trench_02",
+    "sem image 1_trench_03"
+  ],
+  "test": [
+    "sem image 6_trench_01"
+  ]
+}
